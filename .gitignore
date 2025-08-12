@@ -1,0 +1,19 @@
+/build
+/pcap/**
+# config/epc.conf
+# config/enb.conf
+# config/ue.conf
+# config/rr.conf
+# config/sib.conf
+# config/rb.conf
+# config/*.conf
+# config/user_db.csv
+# !config/llfuzz.conf
+# !pcap/enb_mac.pcap
+/.vscode/browse.vc.db
+/.vscode/browse.vc.db-shm
+/.vscode/browse.vc.db-wal
+/CMakeCache.txt
+.vscode/browse.vc.db-shm
+.clangd
+/.cache
